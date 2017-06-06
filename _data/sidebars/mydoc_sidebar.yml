@@ -1,0 +1,95 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: GW4E 
+  version:  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 4.0 Release notes
+      url: /mydoc_release_notes_40.html
+      output: web, pdf
+
+  - title: Installation
+    output: web, pdf
+    folderitems:
+
+    - title: Installing Eclipse
+      url: /mydoc_install_eclipse.html
+      output: web, pdf
+
+    - title: Installing GW4E on top of Eclipse.
+      url: /mydoc_install_gw4e_on_top_of_eclipse.html
+      output: web, pdf
+
+  - title: Tutorials
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /mydoc_tutorial_introduction.html
+      output: web, pdf
+
+    - title: Getting started 
+      url: /mydoc_tutorial_getting_started.html
+      output: web, pdf
+
+    - title: Managing Graph Models & Tests LifeCycle
+      url: /mydoc_tutorials_managing_lifecycle.html
+      output: web, pdf
+      
+    - title: Working with Shared Models
+      url: /mydoc_tutorials_working_with_shared_models.html
+      output: web, pdf
+
+    - title: Troubleshooting your tests
+      url: /mydoc_tutorials_troubleshooting_your_tests.html
+      output: web, pdf
+
+    - title: Using the Builder Performance Viewer
+      url: /mydoc_tutorials_using_the_builder_performance_viewer.html
+      output: web, pdf
+                  
+  - title: Troubleshooting
+    output: web, pdf
+
+    folderitems:
+
+    - title: Troubleshooting
+      url: /mydoc_troubleshooting.html
+      output: web, pdf
+ 
