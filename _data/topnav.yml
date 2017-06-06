@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
+      external_url: https://github.com/gw4e/gw4e.github.io
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -12,16 +12,12 @@ topnav_dropdowns:
   folders:
     - title: GW4E Help
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: GW4E documentation
+          external_url: https://github.com/gw4e/gw4e.github.io
+        - title: GW4E forum
+          external_url: https://groups.google.com/forum/#!forum/gw4e
     - title: Products
       folderitems:
         - title: GW4E Documentation
-          url: /mydoc_introduction.html
+          url: /index.html
 
