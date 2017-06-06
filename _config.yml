@@ -10,7 +10,7 @@ topnav_title: GW4E Documentation
 site_title: GW4E Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: GW4E Project
 # this appears in the footer
 
 github_editme_path: gw4e/gw4e.github.io/
@@ -19,7 +19,7 @@ github_editme_path: gw4e/gw4e.github.io/
 disqus_shortname: http-gw4e-github-io
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
-google_analytics: UA-00000000-0
+google_analytics: UA-100582178-1 
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
