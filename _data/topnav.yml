@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub Doc.
+    - title: GW4E Documentation
       external_url: https://gw4e.github.io/
 
 #Topnav dropdowns
