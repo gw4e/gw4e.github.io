@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/gw4e/gw4e.github.io
+    - title: GitHub Doc.
+      external_url: https://gw4e.github.io/
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -12,9 +12,11 @@ topnav_dropdowns:
   folders:
     - title: GW4E Help
       folderitems:
-        - title: GW4E documentation
+        - title: GW4E Source Documentation
           external_url: https://github.com/gw4e/gw4e.github.io
-        - title: GW4E forum
+        - title: GW4E Source Code
+          external_url: https://github.com/gw4e/gw4e.project          
+        - title: GW4E Forum
           external_url: https://groups.google.com/forum/#!forum/gw4e
     - title: Products
       folderitems:
