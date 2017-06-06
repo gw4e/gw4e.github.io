@@ -12,7 +12,7 @@ folder: mydoc
 ## Version number
 
 The GW4E version is based on the GraphWalker 4.0.0-SNAPSHOT.
-In order to comply with the GraphWalker project versioning, GW4E version is 4.O.
+In order to comply with the GraphWalker project versioning, GW4E version is 4.0.
 
 ## Features 
    1. GraphWalker Import & Creation projects
