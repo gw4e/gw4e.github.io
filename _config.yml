@@ -13,7 +13,7 @@ site_title: GW4E Documentation
 company_name: GW4E Project
 # this appears in the footer
 
-github_editme_path: gw4e/gw4e.github.io/tree/master
+github_editme_path: gw4e/gw4e.github.io/tree/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: http-gw4e-github-io
