@@ -24,7 +24,7 @@ To access one of these tutorials, follow these steps :
  
  1. Launch **Eclipse**, if not already launched
  2. In the main menu, select **Help -> Cheat Sheets...**
- 3. In the **Cheat Sheets Selection** dialog, expand the GW4E tree item
+ 3. In the **Cheat Sheets Selection** dialog, expand the **GW4E** tree item
  4. Select the targeted tutorials and click **OK**
  5. A cheat sheet view is opened, you can now follow the tutorial
  
