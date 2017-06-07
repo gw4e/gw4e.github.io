@@ -2,7 +2,7 @@
 title: Introduction to Tutorials
 tags: [getting_started, tutorials]
 keywords:
-summary: "Introduction to Tutorials"
+summary: "This page introduces the tutorials you can use to learn more about GW4E."
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorial_introduction.html
 folder: mydoc
