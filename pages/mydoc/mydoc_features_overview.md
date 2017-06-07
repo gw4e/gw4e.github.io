@@ -25,6 +25,6 @@ If this is not the case, don't hesitate to visit their [web site](http://graphwa
  
 ## Getting started
 
-To get started, see [Getting Started](/mydoc_tutorial_introduction).
+To get started, see [Introduction to Tutorials](/mydoc_tutorial_introduction).
 
  
