@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Features Overview
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction.html
+permalink: mydoc_features_overview.html
 folder: mydoc
 ---
 

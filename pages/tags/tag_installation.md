@@ -1,5 +1,5 @@
 ---
-title: "Installing GW4E on top of Eclipse"
+title: "Installation for GW4E"
 tagName: installation
 search: exclude
 permalink: tag_installation.html
