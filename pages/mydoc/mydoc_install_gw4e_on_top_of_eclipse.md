@@ -1,7 +1,7 @@
 ---
 title: Installing GW4E on top of Eclipse
-tags: [getting_started, installation]
-keywords:
+tags: [getting_started,installation]
+keywords: getting_started,installation,model based testing, graphwalker
 summary: "Installing GW4E on top of Eclipse"
 sidebar: mydoc_sidebar
 permalink: mydoc_install_gw4e_on_top_of_eclipse.html
@@ -16,13 +16,13 @@ folder: mydoc
  2. In the main menu, click on the *Help* menu item, if you see *Eclipse Marketplace...* menu item then choose the **MarketPlace Option** , else choose the **Standard Option**.
 
 
-## MarketPlace Option
+## MarketPlace Option (IN PROGRESS)
 
 Drag the **Install** button to your running **Eclipse workspace** and follow the wizard.
 
 [![Drag to your running Eclipse workspace.](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3480626 "Drag to your running Eclipse* workspace.")
 
-## Standard Option
+## Standard Option (IN PROGRESS)
 
  1. Download [GW4E](https://github.com/gw4e/gw4e.project/releases/download/build-master-2017-06-04-48/org.gw4e.tycho.update-4.0.0-SNAPSHOT.zip) 
  2. Launch **Eclipse IDE for Java EE Developers** , if not already running

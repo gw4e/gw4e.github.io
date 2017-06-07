@@ -1,8 +1,7 @@
 ---
 title: Supported features
-tags:
-  - getting_started
-keywords: "features, capabilities, benefits"
+tags: [features]
+keywords: features, capabilities, benefits, model based testing, graphwalker
 last_updated: "July 16, 2016"
 summary: "Summary of GW4E features"
 published: true

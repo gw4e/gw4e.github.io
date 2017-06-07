@@ -1,7 +1,7 @@
 ---
 title: Introduction to Tutorials
-tags: [getting_started, tutorials]
-keywords:
+tags: [getting_started, tutorials,introduction]
+keywords: getting_started, tutorials, model based testing,introduction, graphwalker
 summary: "This page introduces the tutorials you can use to learn more about GW4E."
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorial_introduction.html

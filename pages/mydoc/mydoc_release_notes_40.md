@@ -1,8 +1,7 @@
 ---
 title: Release notes 4.0
-tags: [getting_started]
-keywords: release notes, announcements, what's new, new features
-last_updated: June 5, 2017
+tags: [release_notes]
+keywords: release notes, features, what's new, model based testing, graphwalker
 summary: "Version 4.0 of the GW4E"
 sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_40.html
