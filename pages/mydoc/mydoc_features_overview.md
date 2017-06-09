@@ -24,6 +24,10 @@ If this is not the case, don't hesitate to visit their [web site](http://graphwa
    7. Refactoring capabilities
    8. Ability to run and debug GraphWalker tests 
    9. Learning capabilities with a bunch of Eclipse cheat sheets (integrated tutorials) to guide you through GW4E main features.
+
+## Source code
+
+Source code can be found at this [github location](https://github.com/gw4e/gw4e.project)
  
 ## Getting started
 
