@@ -1,7 +1,7 @@
 ---
 title: Installing GW4E on top of Eclipse
 tags: [getting_started,installation]
-keywords: getting_started,installation,model based testing, graphwalker
+keywords: getting_started,installation,model based testing, graphwalker, Eclipse plugin
 summary: "Installing GW4E on top of Eclipse"
 sidebar: mydoc_sidebar
 permalink: mydoc_install_gw4e_on_top_of_eclipse.html

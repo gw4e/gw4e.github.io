@@ -1,7 +1,7 @@
 ---
 title: Managing Graph Models and Tests LifeCycle
 tags: [getting_started, tutorials, lifecycle]
-keywords: getting_started, tutorials, lifecycle, model based testing, graphwalker
+keywords: getting_started, tutorials, lifecycle, model based testing, graphwalker, Eclipse plugin
 summary: "Managing Graph Models and Tests LifeCycle"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_managing_lifecycle.html

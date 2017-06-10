@@ -1,7 +1,7 @@
 ---
 title: Support
 tags: [getting_started, support]
-keywords: questions, troubleshooting, contact, support, model based testing, graphwalker
+keywords: questions, troubleshooting, contact, support, model based testing, graphwalker, Eclipse plugin
 last_updated: July 3, 2016
 summary: "Contact for any support and issues."
 sidebar: mydoc_sidebar

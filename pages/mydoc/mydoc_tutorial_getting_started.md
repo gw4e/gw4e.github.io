@@ -1,7 +1,7 @@
 ---
 title: Getting Started with GW4E
 tags: [getting_started, tutorials]
-keywords: getting_started, tutorials, graph editor, model based testing, graphwalker
+keywords: getting_started, tutorials, graph editor, model based testing, graphwalker, Eclipse plugin
 summary: "Getting Started with GW4E"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorial_getting_started.html

@@ -1,7 +1,7 @@
 ---
 title: Supported features
 tags: [features]
-keywords: features, capabilities, benefits, model based testing, graphwalker
+keywords: features, capabilities, benefits, model based testing, graphwalker, Eclipse plugin
 last_updated: "July 16, 2016"
 summary: "Summary of GW4E features"
 published: true

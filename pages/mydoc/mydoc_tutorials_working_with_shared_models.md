@@ -1,7 +1,7 @@
 ---
 title: Working with Multiple Models
 tags: [getting_started, tutorials]
-keywords: getting_started, tutorials, lifecycle, builder, performance, multiple models, model based testing, graphwalker
+keywords: getting_started, tutorials, lifecycle, builder, performance, multiple models, model based testing, graphwalker, Eclipse plugin
 summary: "Working with Multiple Models"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_working_with_shared_models.html
