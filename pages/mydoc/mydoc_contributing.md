@@ -8,7 +8,7 @@ permalink: mydoc_contributing.html
 folder: mydoc
 ---
 
-## Pre-install the requirements
+## Pre-install requirements
  * Install Java JDK 8
  * Install [Maven](http://maven.apache.org/download.cgi)
  * Git
