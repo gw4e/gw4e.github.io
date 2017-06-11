@@ -11,9 +11,15 @@ folder: mydoc
 ## Prerequisites
 
  * [Install Maven](https://maven.apache.org/install.html), if not already installed 
+ * Add **M2_REPO** Eclipse Variable 
+    * Launch Eclipse IDE
+    * Select **Window > Preferences** (Windows,Linux) or **Eclipse > Preferences** (Mac OS)
+    * Select **Java > Build Path > Classpath Variables**
+    * Click on the **New** button > defined a new **M2_REPO** variable and point it to your local Maven repository
+    * You're done.
  * Install GraphWalker in your local maven repository, if not already installed 
    * Download the [GraphWalker client library](http://graphwalker.github.io/content/archive/graphwalker-cli-4.0.0-SNAPSHOT.jar) in a directory
-   * Run in a shell, the following command :
+   * In a shell, run the following command :
      * <b>mvn install:install-file -Dfile=YOUR_DOWNLOAD_LOCATION/graphwalker-cli-4.0.0-SNAPSHOT.jar -DgroupId=org.graphwalker -DartifactId=graphwalker-cli -Dversion=4.0.0-SNAPSHOT</b> 
 
 
