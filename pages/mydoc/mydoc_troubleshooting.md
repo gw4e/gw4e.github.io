@@ -15,5 +15,5 @@ folder: mydoc
 You get the following message in the problem view<br/>
 	*The container 'Graphwalker' references non existing library '/Users/.../.m2/repository/org/graphwalker/graphwalker-cli/4.0.0-SNAPSHOT/graphwalker-cli-4.0.0-SNAPSHOT.jar'*
 <br/>Solution:
-Make sure you followed the prerequisites [installation](http://127.0.0.1:4000/mydoc_install_gw4e_on_top_of_eclipse.html)
+Make sure you followed the prerequisites [installation](https://gw4e.github.io/mydoc_install_gw4e_on_top_of_eclipse.html)
 
