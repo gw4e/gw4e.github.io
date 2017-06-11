@@ -8,21 +8,31 @@ permalink: mydoc_install_gw4e_on_top_of_eclipse.html
 folder: mydoc
 ---
 
-## Introduction
- There are two options to install GW4E. To determine which option suits your environment, do the following :
- 
- 
- 1. Launch Eclipse IDE for Java EE Developers
- 2. In the main menu, click on the *Help* menu item, if you see *Eclipse Marketplace...* menu item then choose the **MarketPlace Option** , else choose the **Standard Option**.
+## Prerequisites
+
+ * [Install Maven](https://maven.apache.org/install.html), if not already installed 
+ * Install GraphWalker in your local maven repository, if not already installed 
+   * Download the [GraphWalker client library](http://graphwalker.github.io/content/archive/graphwalker-cli-4.0.0-SNAPSHOT.jar) in a directory
+   * Run in a shell, the following command :
+     * <b>mvn install:install-file -Dfile=YOUR_DOWNLOAD_LOCATION/graphwalker-cli-4.0.0-SNAPSHOT.jar -DgroupId=org.graphwalker -DartifactId=graphwalker-cli -Dversion=4.0.0-SNAPSHOT</b> 
 
 
-## Eclipse MarketPlace Option (IN PROGRESS)
+## Installation
+ * Make sure you've followed the prerequisites
+ * Use one of the 2 following options to install GW4E
+   * [Option 1](#option1) - Installing GW4E with the Eclipse MarketPlace Option (IN PROGRESS)
+   * [Option 2](#option2) - Installing GW4E with the Standard Option 
+
+
+
+
+### <a name="option1">Option 1</a> - Installing GW4E with the Eclipse MarketPlace Option (IN PROGRESS)
 
 Drag the **Install** button to your running **Eclipse workspace** and follow the wizard.
 
 [![Drag to your running Eclipse workspace.](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3480626 "Drag to your running Eclipse* workspace.")
 
-## Standard Option 
+### <a name="option2">Option 2</a>  - Installing GW4E with the Standard Option 
 
  1. Launch **Eclipse IDE for Java EE Developers** , if not already running
  2. In the main menu, click on the **Help -> "Install New Software..."**,
