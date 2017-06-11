@@ -1,5 +1,5 @@
 ---
-title: How to build GW4E
+title: How to contribute to GW4E
 tags: [build,installation]
 keywords: how to, build, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "How to build GW4E"
@@ -7,6 +7,8 @@ sidebar: mydoc_sidebar
 permalink: mydoc_contributing.html
 folder: mydoc
 ---
+
+You will contribute with Git tooling.
 
 ## Pre-install requirements
  * Install Java JDK 8
