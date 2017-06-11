@@ -32,6 +32,10 @@ entries:
       url: /mydoc_features_overview.html
       output: web, pdf
 
+    - title: Contributing
+      url: /mydoc_contributing.html
+      output: web, pdf    
+    
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
