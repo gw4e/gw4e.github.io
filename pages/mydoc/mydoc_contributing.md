@@ -8,6 +8,7 @@ permalink: mydoc_contributing.html
 folder: mydoc
 ---
 
+## Introduction
 You will contribute with Git tooling.
 
 ## Pre-install requirements
@@ -29,7 +30,7 @@ git clone https://github.com/gw4e/gw4e.project.git gw4e-project
 cd gw4e-project
 mvn clean install 
 ```
-The location of the jar file is:<br/>
+The location of the update site file is:<br/>
 YOUR_M2_REPO_LOCATION/repository/org/gw4e/tycho/org.gw4e.tycho.update/4.0.0-SNAPSHOT/org.gw4e.tycho.update-4.0.0-SNAPSHOT.zip
 
 
