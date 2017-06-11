@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting your tests
 tags: [getting_started, troubleshooting, tutorials]
-keywords: getting_started, tutorials, lifecycle, troubleshooting, model based testing, graphwalker, Eclipse plugin
+keywords: getting_started, tutorials, lifecycle, troubleshooting, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "Troubleshooting your tests"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_troubleshooting_your_tests.html

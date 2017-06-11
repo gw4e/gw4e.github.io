@@ -1,7 +1,7 @@
 ---
 title: Using the Builder Performance Viewer
 tags: [getting_started, builder, troubleshooting, tutorials, performance]
-keywords: getting_started, tutorials, lifecycle, builder, performance, model based testing, graphwalker, Eclipse plugin
+keywords: getting_started, tutorials, lifecycle, builder, performance, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "Using the Builder Performance Viewer"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_using_the_builder_performance_viewer.html

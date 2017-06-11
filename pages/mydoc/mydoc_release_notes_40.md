@@ -1,7 +1,7 @@
 ---
 title: Release notes 4.0
 tags: [release_notes]
-keywords: release notes, features, what's new, model based testing, graphwalker, Eclipse plugin
+keywords: release notes, features, what's new, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "Version 4.0 of the GW4E"
 sidebar: mydoc_sidebar
 permalink: mydoc_release_notes_40.html

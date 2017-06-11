@@ -1,7 +1,7 @@
 ---
 title: Installing Eclipse IDE for Java EE Developers
 tags: [getting_started,installation]
-keywords: getting_started,installation,model based testing, graphwalker, Eclipse plugin
+keywords: getting_started,installation,model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "Installing Eclipse IDE for Java EE Developers"
 sidebar: mydoc_sidebar
 permalink: mydoc_install_eclipse.html

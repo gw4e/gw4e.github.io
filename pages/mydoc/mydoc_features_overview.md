@@ -1,7 +1,7 @@
 ---
 title: Features Overview
 tags: [features, overview]
-keywords: features, overview, model based testing, graphwalker, Eclipse plugin
+keywords: features, overview, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
 sidebar: mydoc_sidebar
 permalink: mydoc_features_overview.html
 folder: mydoc
