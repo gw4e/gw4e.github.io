@@ -26,13 +26,13 @@ folder: mydoc
 ## Installation
  * Make sure you've followed the prerequisites
  * Use one of the 2 following options to install GW4E
-   * [Option 1](#option1) - Installing GW4E with the Eclipse MarketPlace Option (IN PROGRESS)
+   * [Option 1](#option1) - Installing GW4E with the Eclipse MarketPlace Option 
    * [Option 2](#option2) - Installing GW4E with the Standard Option 
 
 
 
 
-### <a name="option1">Option 1</a> - Installing GW4E with the Eclipse MarketPlace Option (IN PROGRESS)
+### <a name="option1">Option 1</a> - Installing GW4E with the Eclipse MarketPlace Option  
 
 Drag the **Install** button to your running **Eclipse workspace** and follow the wizard.
 
