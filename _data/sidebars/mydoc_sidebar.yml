@@ -31,7 +31,11 @@ entries:
     - title: Features Overview
       url: /mydoc_features_overview.html
       output: web, pdf
-
+      
+    - title: Video Introduction
+      url: /mydoc_video_introduction.html
+      output: web, pdf
+    
     - title: Contributing
       url: /mydoc_contributing.html
       output: web, pdf    
