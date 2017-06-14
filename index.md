@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: "GraphWalker  (http://graphwalker.github.io/) is a open source Model-based testing tool for test automation. The GW4E project, distinct from the GraphWalker project, aims to deliver Eclipse plugins providing the ability to use the GraphWalker standard features (and much more) directly in the Eclipse IDE (https://www.eclipse.org/neon/). In a hurry? <a href='https://youtu.be/GvPF3VvDduw'>View it on Youtube</a>"
+summary: "<a href='http://graphwalker.github.io/'>GraphWalker</a><b> is a open source Model Based Testing tool for test automation. The GW4E project, distinct from the GraphWalker project, aims to deliver Eclipse plugins providing the ability to use the GraphWalker standard features (and much more) directly in the Eclipse IDE. In a hurry? <a href='https://youtu.be/GvPF3VvDduw'>View it on Youtube</a>"
 ---
 
 ## Introduction 
