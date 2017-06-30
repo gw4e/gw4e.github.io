@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## Introduction
-This video gives a quick overview of GW4E.
+These videos give a quick overview of GW4E.
 
 ## Getting Started Video
  
@@ -17,4 +17,8 @@ This video gives a quick overview of GW4E.
   
   [View it on Youtube](https://youtu.be/GvPF3VvDduw)
   
+## Creating a fixed guided path to be run for Debugging.
+ <iframe width="700" height="600" src="http://www.youtube.com/embed/dQb_jcccdq4" frameborder="0" allowfullscreen></iframe>
+
+  [View it on Youtube](https://youtu.be/dQb_jcccdq4)
   
