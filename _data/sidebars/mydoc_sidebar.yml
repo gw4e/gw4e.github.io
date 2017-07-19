@@ -92,6 +92,18 @@ entries:
       url: /mydoc_tutorials_using_the_builder_performance_viewer.html
       output: web, pdf
                   
+    - title: Creating a fixed guided path to be run for debugging
+      url: /mydoc_tutorials_creating_fixed_guided_path.html
+      output: web, pdf                  
+                  
+    - title: Generating Manual Test
+      url: /mydoc_tutorials_generating_manual_test.html
+      output: web, pdf
+
+    - title: Offline Runner Tutorial
+      url: /mydoc_tutorials_using_offline_runner.html
+      output: web, pdf
+      
   - title: Troubleshooting
     output: web, pdf
 

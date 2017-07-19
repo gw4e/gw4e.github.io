@@ -24,5 +24,8 @@ If this is not the case , don't hesitate to visit their [web site](http://graphw
    6. Automated analyzes and checks of graphs with configurable severity levels
    7. Refactoring capabilities
    8. Ability to run and debug GraphWalker tests 
-   9. Learning capabilities with a bunch of Eclipse cheat sheets (integrated tutorials) to guide you through GW4E main features.
+   9. Ability to generate manual tests in spreadsheet 
+  10. Ability to generate offline tests 
+  11. Creating fixed guided path to be run for debugging
+  12. Learning capabilities with a bunch of Eclipse cheat sheets (integrated tutorials) to guide you through GW4E main features.
 

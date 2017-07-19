@@ -21,4 +21,9 @@ These videos give a quick overview of GW4E.
  <iframe width="700" height="600" src="http://www.youtube.com/embed/dQb_jcccdq4" frameborder="0" allowfullscreen></iframe>
 
   [View it on Youtube](https://youtu.be/dQb_jcccdq4)
-  
+
+## Creating a manual test from a graph model 
+ <iframe width="700" height="600" src="http://www.youtube.com/embed/qL_4ah7FjpQ" frameborder="0" allowfullscreen></iframe>
+
+  [View it on Youtube](https://youtu.be/qL_4ah7FjpQ)
+    
