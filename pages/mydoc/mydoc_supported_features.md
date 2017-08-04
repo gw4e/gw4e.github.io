@@ -27,5 +27,6 @@ If this is not the case , don't hesitate to visit their [web site](http://graphw
    9. Ability to generate manual tests in spreadsheet 
   10. Ability to generate offline tests 
   11. Creating fixed guided path to be run for debugging
-  12. Learning capabilities with a bunch of Eclipse cheat sheets (integrated tutorials) to guide you through GW4E main features.
+  12. Integrated editor to author your build policy rules
+  13. Learning capabilities with a bunch of Eclipse cheat sheets (integrated tutorials) to guide you through GW4E main features.
 
