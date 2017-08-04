@@ -18,7 +18,7 @@ Using GW4E will help you to develop faster your GraphWalker projects and ease th
 <br/>
 <center><img src="/images/gw4e/test-generation-wizard.png" alt="GW4E Java Test Conversion Wizard Pages"></center>  
 <br/>
-Have a look at what [features](mydoc_introduction.html) GW4E offers.
+Have a look at what [features](/mydoc_features_overview.html) GW4E offers.
 
 ## Supported OS and Eclipse platform
 
