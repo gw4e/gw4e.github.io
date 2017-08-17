@@ -18,7 +18,7 @@ Your installation comes with tutorials that will help to become familiar with GW
  4. [Troubleshooting your tests](/mydoc_tutorials_troubleshooting_your_tests)
  5. [Using the Builder Performance Viewer](/mydoc_tutorials_using_the_builder_performance_viewer)
  6. [Creating a fixed guided path to be run for debugging](/mydoc_tutorials_creating_fixed_guided_path)
- 7. [Generating Manual Test](/mydoc_tutorials_generating_manual_test)
+ 7. [Generating Manual Tests](/mydoc_tutorials_generating_manual_test)
  8. [Offline Runner Tutorial](/mydoc_tutorials_using_offline_runner)
 
 
