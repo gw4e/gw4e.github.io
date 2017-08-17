@@ -2,7 +2,7 @@
 title: Creating a fixed guided path to be run for debugging
 tags: [getting_started, tutorials]
 keywords: guided path, golden path,getting_started, tutorials, lifecycle, builder, performance, multiple models, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
-summary: "Generating Manual Test"
+summary: "Creating a fixed guided path to be run for debugging"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_creating_fixed_guided_path.html
 folder: mydoc
