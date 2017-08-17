@@ -1,8 +1,8 @@
 ---
-title: Generating Manual Test
+title: Generating Manual Tests
 tags: [getting_started, tutorials]
 keywords: manual test,getting_started, tutorials, lifecycle, builder, performance, multiple models, model based testing, graphwalker, Eclipse plugin, GraphWalker Eclipse Plugin
-summary: "Generating Manual Test"
+summary: "Generating Manual Tests"
 sidebar: mydoc_sidebar
 permalink: mydoc_tutorials_generating_manual_test.html
 folder: mydoc
