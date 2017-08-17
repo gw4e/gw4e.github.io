@@ -96,7 +96,7 @@ entries:
       url: /mydoc_tutorials_creating_fixed_guided_path.html
       output: web, pdf                  
                   
-    - title: Generating Manual Test
+    - title: Generating Manual Tests
       url: /mydoc_tutorials_generating_manual_test.html
       output: web, pdf
 
