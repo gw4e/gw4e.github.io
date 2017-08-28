@@ -21,8 +21,23 @@ folder: mydoc
    * Download the [GraphWalker client library](http://graphwalker.github.io/content/archive/graphwalker-cli-4.0.0-SNAPSHOT.jar) in a directory
    * In a shell, run the following command :
      * <b>mvn install:install-file -Dfile=YOUR_DOWNLOAD_LOCATION/graphwalker-cli-4.0.0-SNAPSHOT.jar -DgroupId=org.graphwalker -DartifactId=graphwalker-cli -Dversion=4.0.0-SNAPSHOT</b> 
+ * Install Repositories for GW4E dependencies, if you target to install on Eclipse 4.7
+   * Launch Eclipse 4.7 IDE
+   * Click Help -> Install new Software
+   * Click Manage button
+   * Install Xtext
+     * Click Add button
+     * Enter **XText** in the **Name** field
+     * Enter **http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/** in the **Location** field
+     * Click OK button
+   * Install GEF
+     * Click Add button
+     * Enter **Gef** in the **Name** field
+     * Enter **http://download.eclipse.org/tools/gef/gef4/updates/releases** in the **Location** field
+     * Click OK button
+   * Click Cancel
 
-
+ 
 ## Installation
  * Make sure you've followed the prerequisites
  * Use one of the 2 following options to install GW4E
