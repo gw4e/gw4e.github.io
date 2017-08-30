@@ -21,8 +21,8 @@ folder: mydoc
    * Download the [GraphWalker client library](http://graphwalker.github.io/content/archive/graphwalker-cli-4.0.0-SNAPSHOT.jar) in a directory
    * In a shell, run the following command :
      * <b>mvn install:install-file -Dfile=YOUR_DOWNLOAD_LOCATION/graphwalker-cli-4.0.0-SNAPSHOT.jar -DgroupId=org.graphwalker -DartifactId=graphwalker-cli -Dversion=4.0.0-SNAPSHOT</b> 
- * Install Repositories for GW4E dependencies, if you target to install on Eclipse 4.7
-   * Launch Eclipse 4.7 IDE
+ * Install Repositories for GW4E dependencies
+   * Launch Eclipse IDE
    * Click Help -> Install new Software
    * Click Manage button
    * Install Xtext
