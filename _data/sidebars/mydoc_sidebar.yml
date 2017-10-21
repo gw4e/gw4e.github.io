@@ -104,6 +104,14 @@ entries:
       url: /mydoc_tutorials_using_offline_runner.html
       output: web, pdf
       
+  - title: Samples      
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /mydoc_samples.html
+      output: web, pdf      
+      
   - title: Troubleshooting
     output: web, pdf
 
