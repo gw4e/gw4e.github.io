@@ -12,7 +12,7 @@ folder: mydoc
 GW4E aims to deliver Eclipse plugins providing the ability to use the GraphWalker standard features (and much more) directly 
 in the Eclipse IDE.
 
-![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/gw4e.png "MBT")
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/gw4eGraphWalker.png "MBT")
 
 ## Model Based Testing Overview
 
