@@ -15,7 +15,7 @@ in the Eclipse IDE.
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/gw4eGraphWalker.png "MBT")
 
 Before running the [tutorials](https://gw4e.github.io/mydoc_tutorial_introduction.html), or [samples](https://gw4e.github.io/mydoc_samples.html)
-you need to be familiar with GW4E&GraphWalker. The following gives you all that you  need to build your MBT tests.
+you need to be familiar with GW4E&GraphWalker. The following gives you all you  need to build your MBT tests.
 
 ## Model Based Testing Overview
 
