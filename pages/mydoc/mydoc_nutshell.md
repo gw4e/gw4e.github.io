@@ -29,15 +29,12 @@ with each other. A model would remind you a popular in testing state transition 
 An edge express an action with the SUT and a vertex express a state of the SUT which should be tested. 
 When a test is generated from the model, a model derives to a java interface and a class implementation, and each graph element 
 (Vertex or Edge) is converted to a java method.
-
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/modeltojava.png "MBT")
-
 When a test has been generated, it needs to be completed because generation ends up with a test skeleton. Once you've completed the test,
 you will want to run it. At execution time GraphWalker walks thru the graph model, when it encounters a graph element (node, or vertex), it calls
 the test java method having the name of the element. The way GrahpWalker walks thru the graph is determined by a PATHGENERATOR. The way it stops walking is 
 handled by a STOPCONDITION. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
-
 #### Generators
 There are many path generators offered by GraphWalker. The following are two examples :
 ##### random( some stop condition(s) )
