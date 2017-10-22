@@ -55,8 +55,6 @@ the test java method having the name of the element. The way GrahpWalker walks t
 handled by a __Stop Condition__. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
-
-
 ## Generators
 
 There are many path generators offered by GraphWalker. The following are two examples :
@@ -124,7 +122,7 @@ is generated in the __target/generated-sources__ directory or __generated-test-s
 The test interface name derives directly from the graph name. In fact only the extension is changed from ".json" to ".java".
 The test implementation name follows the same rule except that a suffix is added to the name. The default suffix is __Impl__ (Can be customized on the project reference).  
   		
-## Requirement Coverage
+## Requirements Coverage
 It is essential that the tests you run meet your original requirements. To track of the relationship between your requirements and tests, 
 you link them by setting a comma separated list of requirements in a dedicated vertex property of the model. These informations, can be used to create 
 traceability with external requirements and the models. The information associated to the requirements are available at the end of the test execution in a JSON format.
