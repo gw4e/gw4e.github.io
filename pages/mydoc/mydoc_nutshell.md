@@ -24,9 +24,6 @@ the executable tests that will test the black box, called system. Abstract tests
 platform used. They are a common interface to the executable tests that will be generated; they represent paths in the use
 of the system.
 
-
-## Model and Tests 
-
 The purpose of the test design in MBT is to describe the expected behavior of the system under test. The result of design looks
 like a graph model with a number of edges (aka arrow, arc or transition) and vertices (aka node or state) and how do they interact 
 with each other. A model would remind you a popular in testing state transition diagram or a finite state diagram. 
@@ -44,22 +41,32 @@ handled by a STOPCONDITION. Path generators together with stop conditions will d
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
 ## Generators
+
 There are many path generators offered by GraphWalker. The following are two examples :
-#### random( some stop condition(s) )
+
+### random(some stop condition(s))
 Navigate through the model in a completely random manor. Also called “Drunkard’s walk”, or “Random walk”. This algorithm selects
 an out-edge from a vertex by random, and repeats the process in the next vertex.
-### weighted_random( some stop condition(s) )
+
+### weighted_random(some stop condition(s))
 Same as the random path generator (see above), but, will use the weight property when generating a path. The weight 
 is an edge property, and it represents the probability of an edge getting chosen.
 
+You can find more details [here](http://graphwalker.github.io/generators_and_stop_conditions).
+
 ## Stop conditions
+
 There are many stop conditions offered by GraphWalker. The following are two examples :
-##### edge_coverage( an integer representing percentage of desired edge coverage )
+
+### edge_coverage( an integer representing percentage of desired edge coverage )
 The stop criteria is a percentage number. When, during execution, the percentage of traversed edges is reached, the test
  is stopped. If an edge is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
-#### vertex_coverage( an integer representing percentage of desired vertex coverage )
+
+### vertex_coverage( an integer representing percentage of desired vertex coverage )
 The stop criteria is a percentage number. When, during execution, the percentage of traversed states is reached, the 
 test is stopped. If vertex is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
+
+You can find more details [here](http://graphwalker.github.io/generators_and_stop_conditions).
 
 ## Generator and Stop conditions usage
 You have two options when using Generator and Stop Conditions:  
