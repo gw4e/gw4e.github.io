@@ -1,8 +1,8 @@
 ---
-title: GW4E in a nutshell
+title: GW4E/GraphWalker in a nutshell
 tags: [overview]
 keywords: overview, model based testing, graphwalker, gw4e, Eclipse plugin, GraphWalker Eclipse Plugin
-summary: "GW4E in a nutshell"
+summary: "GW4E/GraphWalker in a nutshell"
 sidebar: mydoc_sidebar
 permalink: mydoc_nutshell.html
 folder: mydoc
