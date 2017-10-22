@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: GW4E and GraphWalker in a nutshell 
+    - title: GW4E in a nutshell 
       url: /mydoc_nutshell.html
       output: web, pdf
 
