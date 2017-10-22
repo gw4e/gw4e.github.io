@@ -14,6 +14,8 @@ in the Eclipse IDE.
 
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/gw4eGraphWalker.png "MBT")
 
+You will find tutorials [here] (https://gw4e.github.io/mydoc_tutorial_introduction.html), and samples [here](https://gw4e.github.io/mydoc_samples.html)
+
 ## Model Based Testing Overview
 
 The Model Based Testing (MBT) is a test practice in the software industry to increase the effectiveness of the tests, both in
@@ -21,7 +23,6 @@ their coverage of the requirements and in the productivity for creating and main
 Model Based Testing improves the test process by piloting the creation and maintenance of tests from modeling for the test.
 
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbt.png "MBT")
-
 
 ## Model and tests 
 
