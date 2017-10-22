@@ -123,6 +123,6 @@ You have two options when it comes to run you tests:
   *  define the plugin in your pom.xml file and bind the graphwalker test goal to the test phase  
   *  use a fully qualified name like 'mvn org.graphwalker:graphwalker-maven-plugin:test'  
   *  add org.graphwalker as a pluginGroup in your settings.xml file (See maven documentation)  
-2. You use GraphWalker api to set the PATHGENERATOR/STOPCONDITION in your test, in that case you use the Surefire Maven plugin. Use one of the following shell commands  
+2. You use GraphWalker api to set the PATHGENERATOR/STOPCONDITION in your test, in that case you use the Surefire Maven plugin.   
   *  define the Surefire plugin in your pom.xml file and bind the graphwalker test goal to the test phase
 
