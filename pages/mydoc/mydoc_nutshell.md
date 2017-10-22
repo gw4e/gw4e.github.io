@@ -35,12 +35,12 @@ When a test is generated from the model, a model derives to a java interface and
 ## Tests Generation Mode
 
 There are two kinds of generation 
-1. Online
+__Online__
 
 Online testing means that a model-based testing tool connects directly to an SUT and tests it dynamically.
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtonline.png "MBT")
 
-2. Offline
+__Offline__
 
 Offline means generating a test sequence once, that can be later run automatically. Or, just generating a sequence to prove that the model
 with the path generator(s) together with the stop condition(s) works.
