@@ -8,6 +8,10 @@ permalink: mydoc_nutshell.html
 folder: mydoc
 ---
 
+## GW4E & GraphWalker
+GW4E aims to deliver Eclipse plugins providing the ability to use the GraphWalker standard features (and much more) directly in the Eclipse IDE.
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/gw4e.png "MBT")
+
 ## Model Based Testing Overview
 
 The Model Based Testing (MBT) is a test practice in the software industry to increase the effectiveness of the tests, both in
