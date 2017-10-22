@@ -8,9 +8,6 @@ permalink: mydoc_nutshell.html
 folder: mydoc
 ---
 
-# gw4e.samples
-Samples for GW4E
-
 ## Model Based Testing Overview
 
 The Model Based Testing (MBT) is a test practice in the software industry to increase the effectiveness of the tests, both in
@@ -18,7 +15,6 @@ their coverage of the requirements and in the productivity for creating and main
 Model Based Testing improves the test process by piloting the creation and maintenance of tests from modeling for the test.
 
 ![MBT](https://github.com/gw4e/gw4e.samples/blob/master/images/mbt.png "MBT")
-
 
 The model describes all or part of the system. From the model are derived the abstract tests that are the basis of 
 the executable tests that will test the black box, called system. Abstract tests are like the model, independent of the 
@@ -68,34 +64,4 @@ You have two options when using Generator and Stop Conditions.
 2. You use them with api in your test
 ![Generator and Stop condition Apis](https://github.com/gw4e/gw4e.samples/blob/master/images/generatorstopconditionapi.png "Generator and Stop condition Apis")
 
-## The Distributor Sample.
-
-Create a simple simulator of an automatic items dispensing machine. The machine maintains an inventory 
-of items with fixed prices, and is able to deliver the item when enough money have been introduced in the machine. 
-The user can select an item or deselect it if needed. He/She inserts coins and when enough money have been inserted
-the item is ready to be delivered. When the total amount of inserted coins is upper than the item price, then the machine 
-gives back the difference. 
-
-This sample shows how to modelize this and how it is derived to generate a test. 
-
-![Items Dispenser](https://github.com/gw4e/gw4e.samples/blob/master/images/dispenser.png "Items Dispenser")
-
-## The Amazon ShoppingCart Sample.
-This is a test that runs on the Amazon web site.
-
-The use case is about 'Adding books to the shopping cart'.
-
-The preconditions are 'A working Internet connection' and 'an installed Internet browser, like Chrome'.
-
-1. The user browses to the Amazon site: http://www.amazon.com.
-2. The user searches Amazon for books, using the string “model-based testing”. The site should return several hits.
-3. The user selects one of the books. The site displays information about the book.
-4. The user adds 1 book to the shopping cart.
-5. The user selects to view his shopping cart.
-
-As result, there should be 1 book in the cart.
-
-This sample shows how to modelize this and how it is derived to generate a test.
-
-![Amazon Shopping Cart](https://github.com/gw4e/gw4e.samples/blob/master/images/javaamazon.png "Amazon Shopping Cart")
-
+ 
