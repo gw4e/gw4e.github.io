@@ -32,7 +32,17 @@ When a test is generated from the model, a model derives to a java interface and
 (Vertex or Edge) is converted to a java method.
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/modeltojava.png "MBT")
  
-## Model Navigation
+There are two kinds of generation 
+1. Online
+Online testing means that a model-based testing tool connects directly to an SUT and tests it dynamically.
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtonline.png "MBT")
+
+2. Offline
+Offline means generating a test sequence once, that can be later run automatically. Or, just generating a sequence to prove that the model
+with the path generator(s) together with the stop condition(s) works.
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtoffline.png "MBT")
+ 
+## Online Model Navigation
 
 When a test has been generated, it needs to be completed because tests generation ends up with a test skeleton. Once you've completed the test,
 you will want to run it. At execution time GraphWalker walks thru the graph model, when it encounters a graph element (node, or vertex), it calls
@@ -40,7 +50,7 @@ the test java method having the name of the element. The way GrahpWalker walks t
 handled by a __Stop Condition__. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
-![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtprocess.png "MBT")
+
 
 ## Generators
 
