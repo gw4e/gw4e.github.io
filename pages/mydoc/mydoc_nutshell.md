@@ -133,7 +133,8 @@ traceability with external requirements and the models. The information associat
 
 Notice that the requirement_coverage can be used as a Stop Condition:
 
-__requirement_coverage( an integer representing percentage of desired requirement coverage )__
+__requirement_coverage( an integer representing percentage of desired requirement coverage )__  
+
 The stop criteria is a percentage number. When, during execution, the percentage of traversed requirements is reached, the test is stopped. If requirement is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
 
  		
