@@ -124,7 +124,7 @@ The test implementation name follows the same rule except that a suffix is added
   		
 ## Requirements Coverage
 It is essential that the tests you run meet your original requirements. To track of the relationship between your requirements and tests, 
-you link them by setting a comma separated list of requirements in a dedicated vertex property of the model. These informations, can be used to create 
+you link them by setting a comma separated list of requirements in vertices properties. These informations, can be used to create 
 traceability with external requirements and the models. The information associated to the requirements are available at the end of the test execution in a JSON format.
 
 ![Requirement Coverage](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/requirement.png "Requirement Coverage")
