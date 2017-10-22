@@ -128,10 +128,11 @@ The test implementation name follows the same rule except that a suffix is added
 It is essential that the tests you run meet your original requirements. To track of the relationship between your requirements and tests, 
 you link them by setting a comma separated list of requirements in a dedicated vertex property of the model. These informations, can be used to create 
 traceability with external requirements and the models. The information associated to the requirements are available at the end of the test execution in a JSON format.
+
 ![Requirement Coverage](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/requirement.png "Requirement Coverage")
 
+Notice that the requirement_coverage can be used as a Stop Condition:
 
-Notice that the requirement_coverage can be used as a Stop Condition.
 __requirement_coverage( an integer representing percentage of desired requirement coverage )__
 The stop criteria is a percentage number. When, during execution, the percentage of traversed requirements is reached, the test is stopped. If requirement is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
 
