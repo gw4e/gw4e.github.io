@@ -37,7 +37,7 @@ When a test is generated from the model, a model derives to a java interface and
 When a test has been generated, it needs to be completed because tests generation ends up with a test skeleton. Once you've completed the test,
 you will want to run it. At execution time GraphWalker walks thru the graph model, when it encounters a graph element (node, or vertex), it calls
 the test java method having the name of the element. The way GrahpWalker walks thru the graph is determined by a __Generator__. The way it stops walking is 
-handled by a __Stop Conditions__. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
+handled by a __Stop Condition__. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtprocess.png "MBT")
