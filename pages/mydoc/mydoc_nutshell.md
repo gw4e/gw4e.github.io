@@ -36,21 +36,21 @@ you will want to run it. At execution time GraphWalker walks thru the graph mode
 the test java method having the name of the element. The way GrahpWalker walks thru the graph is determined by a PATHGENERATOR. The way it stops walking is 
 handled by a STOPCONDITION. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
-#### Generators
+### Generators
 There are many path generators offered by GraphWalker. The following are two examples :
-##### random( some stop condition(s) )
+#### random( some stop condition(s) )
 Navigate through the model in a completely random manor. Also called “Drunkard’s walk”, or “Random walk”. This algorithm selects
 an out-edge from a vertex by random, and repeats the process in the next vertex.
-##### weighted_random( some stop condition(s) )
+#### weighted_random( some stop condition(s) )
 Same as the random path generator (see above), but, will use the weight property when generating a path. The weight 
 is an edge property, and it represents the probability of an edge getting chosen.
 
-#### Stop conditions
+### Stop conditions
 There are many stop conditions offered by GraphWalker. The following are two examples :
 ##### edge_coverage( an integer representing percentage of desired edge coverage )
 The stop criteria is a percentage number. When, during execution, the percentage of traversed edges is reached, the test
  is stopped. If an edge is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
-##### vertex_coverage( an integer representing percentage of desired vertex coverage )
+#### vertex_coverage( an integer representing percentage of desired vertex coverage )
 The stop criteria is a percentage number. When, during execution, the percentage of traversed states is reached, the 
 test is stopped. If vertex is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
 
