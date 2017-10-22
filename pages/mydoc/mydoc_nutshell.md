@@ -47,14 +47,14 @@ Offline means generating a test sequence once, that can be later run automatical
 with the path generator(s) together with the stop condition(s) works.
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtoffline.png "MBT")
  
-## Online Model Navigation
-
-When a test has been generated, it needs to be completed because tests generation ends up with a test skeleton. Once you've completed the test,
-you will want to run it. At execution time GraphWalker walks thru the graph model, when it encounters a graph element (node, or vertex), it calls
-the test java method having the name of the element. The way GrahpWalker walks thru the graph is determined by a __Generator__. The way it stops walking is 
+## Model Navigation
+The way GrahpWalker walks thru the graph is determined by a __Generator__. The way it stops walking is 
 handled by a __Stop Condition__. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
-
+In Offline mode, the navigation helps to generate the test case. Each graph elements traversed is added to the list of the methods that make the test.
+In Online mode, once a test has been generated, it needs to be completed because tests generation ends up with a test skeleton. Once you've completed the test,
+you will want to run it. At execution time GraphWalker walks thru the graph model, when it encounters a graph element (node, or vertex), it calls
+the test java method having the name of the element. 
 ## Generators
 
 There are many path generators offered by GraphWalker. The following are two examples :
