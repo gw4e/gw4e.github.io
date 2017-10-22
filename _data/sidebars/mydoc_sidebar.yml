@@ -28,6 +28,10 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: GW4E and GraphWalker in a nutshell 
+      url: /mydoc_nutshell.html
+      output: web, pdf
+
     - title: Features Overview
       url: /mydoc_features_overview.html
       output: web, pdf
@@ -36,10 +40,6 @@ entries:
       url: /mydoc_video_introduction.html
       output: web, pdf
         
-    - title: GW4E and GraphWalker in a nutshell 
-      url: /mydoc_nutshell.html
-      output: web, pdf
-
     - title: Contributing
       url: /mydoc_contributing.html
       output: web, pdf    
