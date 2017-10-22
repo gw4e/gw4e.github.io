@@ -12,7 +12,13 @@ folder: mydoc
 You have access [here](https://github.com/gw4e/gw4e.samples) to sample projects.  
 
 ## Distributor 
- Documentation coming soon
+Create a simple simulator of an automatic items dispensing machine. This sample shows how to modelize this and how it is derived to generate a test. 
+
+![Items Dispenser](https://github.com/gw4e/gw4e.samples/blob/master/images/dispenser.png "Items Dispenser")
    
-## Java Amazon Project ofr GW4E
- Documentation coming soon
+## The Amazon ShoppingCart Sample.
+This is a test that runs on the Amazon web site. The use case is about 'Adding books to the shopping cart'.
+This sample shows how to modelize this and how it is derived to generate a test.
+
+![Amazon Shopping Cart](https://github.com/gw4e/gw4e.samples/blob/master/images/javaamazon.png "Amazon Shopping Cart")
+
