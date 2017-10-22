@@ -40,6 +40,8 @@ the test java method having the name of the element. The way GrahpWalker walks t
 handled by a STOPCONDITION. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/mbtprocess.png "MBT")
+
 ## Generators
 
 There are many path generators offered by GraphWalker. The following are two examples :
@@ -107,6 +109,8 @@ is generated in the __target/generated-sources__ directory or __generated-test-s
 The test interface name derives directly from the graph name. In fact only the extension is changed from ".json" to ".java".
 The test implementation name follows the same rule except that a suffix is added to the name. The default suffix is __Impl__ (Can be customized on the project reference).  
   		
+## Requirement Coverage
+
  		
 ## Launching Tests within Eclipse
 You have two options when it comes to run you tests:  
