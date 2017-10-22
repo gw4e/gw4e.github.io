@@ -36,7 +36,7 @@ entries:
       url: /mydoc_video_introduction.html
       output: web, pdf
         
-    - title: GW4E and GraohWalker in a nutshell 
+    - title: GW4E and GraphWalker in a nutshell 
       url: /mydoc_nutshell.html
       output: web, pdf
 
