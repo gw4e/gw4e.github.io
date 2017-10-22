@@ -1,5 +1,5 @@
 ---
-title: Overview of GW4
+title: Overview of GW4E
 tags: [overview]
 keywords: overview, model based testing, graphwalker, gw4e, Eclipse plugin, GraphWalker Eclipse Plugin
 summary: "Overview of GW4E"
@@ -14,7 +14,7 @@ The Model Based Testing (MBT) is a test practice in the software industry to inc
 their coverage of the requirements and in the productivity for creating and maintaining test repositories.
 Model Based Testing improves the test process by piloting the creation and maintenance of tests from modeling for the test.
 
-![MBT](https://github.com/gw4e/gw4e.samples/blob/master/images/mbt.png "MBT")
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/mbt.png "MBT")
 
 The model describes all or part of the system. From the model are derived the abstract tests that are the basis of 
 the executable tests that will test the black box, called system. Abstract tests are like the model, independent of the 
@@ -55,7 +55,6 @@ The stop criteria is a percentage number. When, during execution, the percentage
 ##### vertex_coverage( an integer representing percentage of desired vertex coverage )
 The stop criteria is a percentage number. When, during execution, the percentage of traversed states is reached, the 
 test is stopped. If vertex is traversed more than one time, it still counts as 1, when calculating the percentage coverage.
-
 
 #### Generator and Stop conditions usage
 You have two options when using Generator and Stop Conditions.
