@@ -35,6 +35,7 @@ When a test is generated from the model, a model derives to a java interface and
 ## Tests Generation Mode
 
 There are two kinds of generation 
+
 __Online__
 
 Online testing means that a model-based testing tool connects directly to an SUT and tests it dynamically.
