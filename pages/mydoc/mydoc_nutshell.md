@@ -38,14 +38,12 @@ There are two kinds of generation
 1. Online
 
 Online testing means that a model-based testing tool connects directly to an SUT and tests it dynamically.
-
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtonline.png "MBT")
 
 2. Offline
 
 Offline means generating a test sequence once, that can be later run automatically. Or, just generating a sequence to prove that the model
 with the path generator(s) together with the stop condition(s) works.
-
 ![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtoffline.png "MBT")
  
 ## Online Model Navigation
