@@ -30,8 +30,8 @@ with each other. A model would remind you a popular in testing state transition 
 An edge express an action with the SUT and a vertex express a state of the SUT which should be tested. 
 When a test is generated from the model, a model derives to a java interface and a class implementation, and each graph element 
 (Vertex or Edge) is converted to a java method.
-![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/modeltojava.png "MBT")
-
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/modeltojava.png "MBT")
+ 
 ## Model Navigation
 
 When a test has been generated, it needs to be completed because tests generation ends up with a test skeleton. Once you've completed the test,
