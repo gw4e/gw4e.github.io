@@ -14,7 +14,7 @@ The Model Based Testing (MBT) is a test practice in the software industry to inc
 their coverage of the requirements and in the productivity for creating and maintaining test repositories.
 Model Based Testing improves the test process by piloting the creation and maintenance of tests from modeling for the test.
 
-![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/mbt.png "MBT")
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbt.png "MBT")
 
 
 ## Model and tests 
@@ -40,7 +40,7 @@ the test java method having the name of the element. The way GrahpWalker walks t
 handled by a STOPCONDITION. Path generators together with stop conditions will decide what strategy to use when generating a path through a model, and when
 to stop generating that path. Different generators will generate different test sequences, and they will navigate in different ways.
 
-![MBT](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/mbtprocess.png "MBT")
+![MBT](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/mbtprocess.png "MBT")
 
 ## Generators
 
@@ -74,9 +74,9 @@ You can find more details [here](http://graphwalker.github.io/generators_and_sto
 You have two options when using Generator and Stop Conditions:  
 
 1. You use it in the class '@GraphWalker(...)' annotation
-![GraphWalker annotation](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/graphwalkerannotation.png "GraphWalker annotation")  
+![GraphWalker annotation](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/graphwalkerannotation.png "GraphWalker annotation")  
 2. You use them with api in your test
-![Generator and Stop condition Apis](https://raw.githubusercontent.com/gw4e/gw4e.samples/master/images/generatorstopconditionapi.png "Generator and Stop condition Apis")
+![Generator and Stop condition Apis](https://raw.githubusercontent.com/gw4e/gw4e.github.io/master/images/generatorstopconditionapi.png "Generator and Stop condition Apis")
 
 ## Tests Generation 
 
