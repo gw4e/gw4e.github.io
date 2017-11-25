@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## Prerequisites
-
+ * You have Eclipse IDE for Java EE Developers (Neon or Oxygen version) installed as explained in https://gw4e.github.io/mydoc_install_eclipse.html
  * [Install Maven](https://maven.apache.org/install.html), if not already installed 
  * Add **M2_REPO** Eclipse Variable 
     * Launch Eclipse IDE
